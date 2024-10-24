@@ -1,0 +1,17 @@
+{
+  "tips": {
+    "question": "玩法介绍",
+    "setting": "游戏设置",
+    "restart": "重新开始",
+    "restartConfirm": "是否要重新开始游戏？"
+  },
+  "urls": {
+    "howToPlay": "https://en.wikipedia.org/wiki/Mastermind_(board_game)"
+  },
+  "labels": {
+    "colorNum": "颜色数",
+    "slotNum": "插槽数",
+    "turnNum": "回合数",
+    "language": "语言"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "tips": {
+    "question": "How to play",
+    "setting": "Game setting",
+    "restart": "Restart",
+    "restartConfirm": "Do you want to restart the game?"
+  },
+  "urls": {
+    "howToPlay": "https://en.wikipedia.org/wiki/Mastermind_(board_game)"
+  },
+  "labels": {
+    "colorNum": "Colors",
+    "slotNum": "Slots",
+    "turnNum": "Turns",
+    "language": "Language"
+  }
+}
